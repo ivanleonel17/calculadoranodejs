@@ -1,4 +1,3 @@
-// calculadora.js
 const readline = require('readline');
 const suma = require('./suma');
 const resta = require('./resta');
